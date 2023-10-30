@@ -1,4 +1,4 @@
-# Zenit Repos.
+# Zenit Repositórios.
 
 ### admin-frontend-react
 Repositório do novo admin utilizando reactjs e refine
