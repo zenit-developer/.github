@@ -10,7 +10,7 @@ Repositório do novo backend utilizando em nestjs
 
 -----
 
-### zenit-cdk
+### zenit-cdk-monorepo
 Repositório utilizado para subir a infraestrutura na amazon utilizando CDK.
 
 -----
